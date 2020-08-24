@@ -1,14 +1,3 @@
-# Viết code đầu tiên với Deno
+# Đây là tutorial cơ bản về Deno
 
-**Tạo index.ts**
-
-```
-let message: string = "Hello World !";
-console.log(message);
-```
-
-**Chạy lệnh**
-
-```
-deno run index.ts
-```
+## Update...
